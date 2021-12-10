@@ -6,3 +6,5 @@ alterações, desde o principio no Git com seus comandos o para o que eles
 servem, todo o preparo do arquivo no git (em nosso ambiente local), como
 git init, git add e git commit, deixando o repositório pronto para ser
 "empurrado" para o GitHub (ambiente remoto) com o git push.
+
+	Site para download do Git: https://git-scm.com/
