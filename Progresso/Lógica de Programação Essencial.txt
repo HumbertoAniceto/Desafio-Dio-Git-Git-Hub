@@ -1,0 +1,13 @@
+Curso de Lógica de Programação
+
+	Após uma introdução mais teórica sobre todos os tópicos que envolvem a lógica de programação,
+como por exemplo, algoritmos e pseudocódigos, variáveis e constantes, concatenação, e assim termos 
+um melhor conhecimento para, então, começarmos realmente a programar pequenos códigos através do 
+Portugol, um ambiente para aprender a programar, voltado para os iniciantes em programação que falam 
+o idioma português.
+	No portugol, começamos com comandos básicos e caminhamos para programas mais elaborados, como
+laços de repetição, e então chegarmos a matrizes e vetores.
+	Um ótimo começo, com aulas bem detalhadas e desafios no fim dessas, para reforçarmos o aprendizado.
+
+
+	Site para download do Portugol: http://lite.acad.univali.br/portugol/

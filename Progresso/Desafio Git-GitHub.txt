@@ -1,0 +1,5 @@
+Desafio Git/GitHub
+
+	Criar um novo repositório no GitHub, cloná-lo para nosso
+ambiente remoto, fazer alterções, adicionar novas pastas e arquivos
+e enviá-los novamente para o GitHub.

@@ -1,0 +1,7 @@
+Estrutura de Dados
+
+	Aulas mais teóricas sobre etrutura de dados.
+	Começando com estruturas mais simples como vetores e matrizes até as mais complexas, 
+como árvores, tabel hash e grafos. Em todas elas com informações sobre qual elemento elas
+podem armazenar, como acessá-los, como retirá-los, etc.
+	
